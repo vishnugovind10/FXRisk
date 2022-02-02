@@ -1,2 +1,2 @@
-# FXRisk
-This calculates the lot size for each trade
+**# FX Risk management**
+
